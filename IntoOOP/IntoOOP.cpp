@@ -65,5 +65,7 @@ private:
 public:
 	float Luas;
 
-	void input
+	void input() { // methode input persegi panjang
+
+	}
 };
