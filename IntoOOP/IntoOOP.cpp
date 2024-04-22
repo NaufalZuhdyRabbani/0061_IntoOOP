@@ -76,5 +76,13 @@ public:
 		return panjang * Lebar;
 	}
 
-	void display
+	void display() {
+		cout << "Panjangnya = " << panjang << endl;
+		cout << "Lebarnya = " << Lebar << endl;
+		cout << "Luasnya = " << hitungLuas() << endl;
+	}
 };
+
+int main() {
+
+}
