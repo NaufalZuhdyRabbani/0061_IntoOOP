@@ -73,6 +73,6 @@ public:
 		cin >> Lebar;
 	}
 	float hitungLuas() {
-		return
+		retur
 	}
 };
